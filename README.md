@@ -1,7 +1,7 @@
-# EMAIL VARIFACTION - PYTHON PROJECTS
-This project ia base on email validation. To create this project I used a python string and for loop.
+# EMAIL VERIFICATION - PYTHON PROJECTS
+This project ia base on email verification. To create this project I used a python string and for loop.
 
-We divided an email varifaction into 6 condition. After completing these condition, our email varifaction is successfully executed.
+We divided an email verification into 6 condition. After completing these condition, our email verification is successfully executed.
 
 condition - 1 
 
