@@ -1,4 +1,4 @@
-# PYTHON-PROJECTS
+# EMAIL VARIFACTION - PYTHON PROJECTS
 This project ia base on email validation. To create this project I used a python string and for loop.
 
 We divided an email varifaction into 6 condition. After completing these condition, our email varifaction is successfully executed.
